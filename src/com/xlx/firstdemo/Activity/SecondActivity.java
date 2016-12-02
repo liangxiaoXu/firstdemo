@@ -26,6 +26,7 @@ public class SecondActivity extends Activity{
 	public void openToast1(View v){
 		t = Toast.makeText(getApplicationContext(), "默认", Toast.LENGTH_SHORT);
 		t.show();
+		
 	}
 	
 	/**
