@@ -5,6 +5,7 @@
     <string name="hello">hi，老朋友，未来的路一片光明</string>
     <string name="buttonText">打开第二个Activity</string>
     <string name="buttonToast">toast</string>
+    <string name="selectContact">选择联系人</string>
     
     <string name="label2">Toast</string>
     <string name="name2">toast类型</string>
