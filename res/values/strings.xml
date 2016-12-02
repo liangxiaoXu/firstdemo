@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DEMO</string>
+    <string name="hello">hi，老朋友，未来的路一片光明</string>
+    <string name="buttonText">打开第二个Activity</string>
+    <string name="buttonToast">toast</string>
+    
+    <string name="label2">Toast</string>
+    <string name="name2">toast类型</string>
+    
+    <string name="label3">第三个Activity</string>
+    <string name="name3">这是第三个Activity</string>
+    
+        
+    <string name="toast_1">默认</string>
+    <string name="toast_2">自定义显示位置</string>
+    <string name="toast_3">带图片</string>
+    <string name="toast_4">其它线程</string>
+    
+</resources>
